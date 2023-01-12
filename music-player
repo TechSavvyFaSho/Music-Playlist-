@@ -1,0 +1,61 @@
+<div id="app-cover">
+    <div id="bg-artwork"></div>
+    <div id="bg-layer"></div>
+    <div id="player">
+      <div id="player-track">
+        <div id="album-name"></div>
+        <div id="track-name"></div>
+        <div id="track-time">
+          <div id="current-time"></div>
+          <div id="track-length"></div>
+        </div>
+        <div id="s-area">
+          <div id="ins-time"></div>
+          <div id="s-hover"></div>
+          <div id="seek-bar"></div>
+        </div>
+      </div>
+      <div id="player-content">
+        <div id="album-art">
+          <img src="https://e.snmc.io/i/600/s/06574b4874ed78b55072a7765976ec3a/9302954/yeat-up-2-me-Cover-Art.jpg" class="active" id="_1">
+          <img src="https://e.snmc.io/i/600/s/06574b4874ed78b55072a7765976ec3a/9302954/yeat-up-2-me-Cover-Art.jpg" id="_2">
+          <img src="https://static.qobuz.com/images/covers/qb/v4/im9d3on5cv4qb_600.jpg" id="_3">
+          <img src="https://i1.sndcdn.com/artworks-Kfgpup4nLI6CBj6q-x3l4RQ-t500x500.jpg" id="_4">
+          <img src="https://i1.sndcdn.com/artworks-KlhFs3fHLX23-0-t500x500.jpg" id="_5">
+          <img src="https://www.rapreviews.com/wp-content/uploads/2020/04/harlow-sweetaction.jpg" id="_6">
+          <img src="https://townsquare.media/site/812/files/2021/05/amine.jpg" id="_7">
+          <img src="https://townsquare.media/site/812/files/2021/05/amine.jpg" id="_8">
+          <img src="https://townsquare.media/site/812/files/2021/05/amine.jpg" id="_9">
+          <img src="https://e.snmc.io/i/600/s/1394ec7bc654c82ed9f83e03538e1272/9299022/b-lovee-iykyk-cover-art.jpg" id="_10">
+          <img src="https://cdns-images.dzcdn.net/images/cover/bd7d4f9c7645886d02b52d33b5027f33/264x264.jpg" id="_11">
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Cochise_%26_Snot_-_Tell_Em.jpg/220px-Cochise_%26_Snot_-_Tell_Em.jpg" id="_12">
+          <img src="https://townsquare.media/site/812/files/2021/05/amine.jpg" id="_13">
+          <img src="https://i1.sndcdn.com/avatars-T2Tny7XHErrm4N7x-A7pHMA-t500x500.jpg" id="_14">
+          <img src="https://m.media-amazon.com/images/I/510HI8T4VuL.jpg" id="_15">
+          <img src="https://e.snmc.io/i/600/s/6f6f3f0537eeac221e62344a669453c1/10186433/jack-harlow-confetti-Cover-Art.jpg" id="_16">
+          <img src="https://e.snmc.io/i/600/s/6f6f3f0537eeac221e62344a669453c1/10186433/jack-harlow-confetti-Cover-Art.jpg" id="_17">
+          <img src="https://e.snmc.io/i/600/s/06574b4874ed78b55072a7765976ec3a/9302954/yeat-up-2-me-Cover-Art.jpg" id="_18">
+          <img src="https://i1.sndcdn.com/artworks-410bf119-4035-402d-8a17-bb4ba736780a-0-t500x500.jpg" id="_19">
+          <img src="https://i1.sndcdn.com/avatars-EgiyQ8BY1EehKPcY-eMtsJw-t500x500.jpg" id="_20">
+          <div id="buffer-box">Buffering ...</div>
+        </div>
+        <div id="player-controls">
+          <div class="control">
+            <div class="button" id="play-previous">
+              <i class="fas fa-backward"></i>
+            </div>
+          </div>
+          <div class="control">
+            <div class="button" id="play-pause-button">
+              <i class="fas fa-play"></i>
+            </div>
+          </div>
+          <div class="control">
+            <div class="button" id="play-next">
+              <i class="fas fa-forward"></i>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
